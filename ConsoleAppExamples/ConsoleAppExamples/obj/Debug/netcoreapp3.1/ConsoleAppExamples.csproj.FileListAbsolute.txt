@@ -1,0 +1,13 @@
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\bin\Debug\netcoreapp3.1\ConsoleAppExamples.exe
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\bin\Debug\netcoreapp3.1\ConsoleAppExamples.deps.json
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\bin\Debug\netcoreapp3.1\ConsoleAppExamples.runtimeconfig.json
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\bin\Debug\netcoreapp3.1\ConsoleAppExamples.runtimeconfig.dev.json
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\bin\Debug\netcoreapp3.1\ConsoleAppExamples.dll
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\bin\Debug\netcoreapp3.1\ConsoleAppExamples.pdb
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\obj\Debug\netcoreapp3.1\ConsoleAppExamples.csprojAssemblyReference.cache
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\obj\Debug\netcoreapp3.1\ConsoleAppExamples.AssemblyInfoInputs.cache
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\obj\Debug\netcoreapp3.1\ConsoleAppExamples.AssemblyInfo.cs
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\obj\Debug\netcoreapp3.1\ConsoleAppExamples.csproj.CoreCompileInputs.cache
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\obj\Debug\netcoreapp3.1\ConsoleAppExamples.dll
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\obj\Debug\netcoreapp3.1\ConsoleAppExamples.pdb
+F:\Abhijit_P\Projects\csharp-tutorial\ConsoleAppExamples\ConsoleAppExamples\obj\Debug\netcoreapp3.1\ConsoleAppExamples.genruntimeconfig.cache
