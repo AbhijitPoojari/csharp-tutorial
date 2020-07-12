@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Anonymoustypeconcept.cs" />
     <Compile Remove="DynamictypeConcepts.cs" />
+    <Compile Remove="Nullableconcept.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
